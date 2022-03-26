@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [MrIncognito][discord] 👋 
+# Hi there, I'm Owen - aka [MrIncognito][discord] 👋 
 
 
 
@@ -11,7 +11,7 @@
 [![website](./img/globe-dark.svg)](https://333hub.tk#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/discord%20(1).svg)](https://discord.com/invite/4qGPHfZKSW#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/discord%20(1).svg)](https://discord.com/invite/4qGPHfZKSW#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
