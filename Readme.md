@@ -10,8 +10,8 @@
 [![website](./img/globe-light.svg)](https://333hub.tk#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://333hub.tk#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord_black.svg)](https://discord.com/invite/4qGPHfZKSW#gh-light-mode-only)
-[![website](./img/discord_black.svg)](https://discord.com/invite/4qGPHfZKSW#gh-dark-mode-only)
+[![website](./img/Discord_black.svg)](https://discord.com/invite/4qGPHfZKSW#gh-light-mode-only)
+[![website](./img/Discord_black.svg)](https://discord.com/invite/4qGPHfZKSW#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
