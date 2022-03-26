@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://333hub.tk#gh-light-mode-only)
+[![website](./img/WWW_black.svg)](https://333hub.tk#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://333hub.tk#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/Discord_black.svg)](https://discord.com/invite/4qGPHfZKSW#gh-light-mode-only)
